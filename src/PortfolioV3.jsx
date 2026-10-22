@@ -15,7 +15,7 @@ const WEB3FORMS_ACCESS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
 const PROFILE_EMAIL = "saviwijethunga2002@gmail.com";
 const PROFILE_LOCATION = "Colombo, Sri Lanka";
 const PROFILE_GITHUB = "https://github.com/sadaruX3";
-const PROFILE_LINKEDIN = "https://www.linkedin.com/in/sadaru-wijethunga-9a60b5373";
+const PROFILE_LINKEDIN = "https://www.linkedin.com/in/sadaru-wijethunga-bb510b440";
 const PROFILE_PHOTO_URL = "https://github.com/sadaruX3.png";
 
 const SKILL_GROUPS = [
@@ -1290,7 +1290,7 @@ export default function PortfolioV3() {
               className="p-3.5 rounded-2xl bg-white/[0.04] border border-white/10 hover:border-[#0077b5] text-left transition-all"
             >
               <div className="text-[11px] font-mono text-gray-400 mb-1">LINKEDIN</div>
-              <div className="text-[13px] font-medium text-white truncate">sadaru-wijethunga</div>
+              <div className="text-[13px] font-medium text-white truncate">sadaru-wijethunga-bb510b440</div>
             </a>
 
             <div className="p-3.5 rounded-2xl bg-white/[0.04] border border-white/10 text-left">
@@ -1467,7 +1467,7 @@ export default function PortfolioV3() {
                 <div>📧 {PROFILE_EMAIL}</div>
                 <div>📍 {PROFILE_LOCATION}</div>
                 <div>🔗 github.com/sadaruX3</div>
-                <div>💼 LinkedIn: sadaru-wijethunga</div>
+                <div>💼 LinkedIn: sadaru-wijethunga-bb510b440</div>
               </div>
 
               {/* Summary */}
