@@ -9,62 +9,70 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 5844 >>
+<< /Length 6794 >>
 stream
-BT /F2 21 Tf 0.070 0.090 0.180 rg 1 0 0 1 48.0 800.0 Tm (SADARU WIJETHUNGA) Tj ET
-BT /F1 10.5 Tf 0.350 0.400 0.500 rg 1 0 0 1 48.0 783.0 Tm (QA Engineer & Full-Stack Developer  |  SLIIT IT Undergraduate) Tj ET
-BT /F1 8.8 Tf 0.250 0.280 0.350 rg 1 0 0 1 48.0 768.0 Tm (Email: saviwijethunga2002@gmail.com   |   Location: Colombo, Sri Lanka) Tj ET
-BT /F1 8.8 Tf 0.150 0.420 0.720 rg 1 0 0 1 48.0 756.0 Tm (GitHub: github.com/sadaruX3   |   LinkedIn: linkedin.com/in/sadaru-wijethunga-bb510b440) Tj ET
-0.180 0.450 0.750 RG 1.2 w 48.0 744.0 m 547.0 744.0 l S
-BT /F2 10.5 Tf 0.100 0.150 0.300 rg 1 0 0 1 48.0 726.0 Tm (PROFESSIONAL PROFILE) Tj ET
-0.850 0.870 0.920 RG 0.8 w 48.0 722.0 m 547.0 722.0 l S
-0.180 0.450 0.750 rg 48.0 721.8 40.0 1.4 re f
-BT /F1 9 Tf 0.220 0.250 0.300 rg 1 0 0 1 48.0 709.0 Tm (Detail-oriented Information Technology undergraduate at SLIIT specializing in Software Quality Assurance) Tj ET
-BT /F1 9 Tf 0.220 0.250 0.300 rg 1 0 0 1 48.0 696.5 Tm (\(Playwright test automation\) and full-stack software development. Passionate about building test-driven) Tj ET
-BT /F1 9 Tf 0.220 0.250 0.300 rg 1 0 0 1 48.0 684.0 Tm (web systems and native Android applications with clean architecture, high reliability, and exceptional user experience.) Tj ET
-BT /F2 10.5 Tf 0.100 0.150 0.300 rg 1 0 0 1 48.0 663.5 Tm (EDUCATION) Tj ET
-0.850 0.870 0.920 RG 0.8 w 48.0 659.5 m 547.0 659.5 l S
-0.180 0.450 0.750 rg 48.0 659.3 40.0 1.4 re f
-BT /F2 10 Tf 0.080 0.100 0.180 rg 1 0 0 1 48.0 646.5 Tm (BSc \(Hons\) in Information Technology) Tj ET
-BT /F1 8.8 Tf 0.450 0.480 0.550 rg 1 0 0 1 465.0 646.5 Tm (2022 - Present) Tj ET
-BT /F2 9 Tf 0.820 0.420 0.120 rg 1 0 0 1 48.0 634.5 Tm (Sri Lanka Institute of Information Technology \(SLIIT\)) Tj ET
-BT /F1 8.6 Tf 0.280 0.300 0.350 rg 1 0 0 1 48.0 622.5 Tm (Relevant Coursework: Software Quality Assurance, Data Structures & Algorithms, Mobile App Engineering, OOP, DBMS.) Tj ET
-BT /F2 10.5 Tf 0.100 0.150 0.300 rg 1 0 0 1 48.0 606.5 Tm (TECHNICAL EXPERTISE) Tj ET
-0.850 0.870 0.920 RG 0.8 w 48.0 602.5 m 547.0 602.5 l S
-0.180 0.450 0.750 rg 48.0 602.3 40.0 1.4 re f
-BT /F2 8.8 Tf 0.100 0.120 0.200 rg 1 0 0 1 48.0 589.5 Tm (QA & Testing:) Tj ET
-BT /F1 8.5 Tf 0.250 0.280 0.330 rg 1 0 0 1 163.0 589.5 Tm (Playwright Automation, Postman API Testing, Test Case Matrices, Bug Reporting, Regression Testing) Tj ET
-BT /F2 8.8 Tf 0.100 0.120 0.200 rg 1 0 0 1 48.0 576.0 Tm (Languages:) Tj ET
-BT /F1 8.5 Tf 0.250 0.280 0.330 rg 1 0 0 1 163.0 576.0 Tm (JavaScript \(ES6+\), Kotlin, Java, Python, PHP, SQL) Tj ET
-BT /F2 8.8 Tf 0.100 0.120 0.200 rg 1 0 0 1 48.0 562.5 Tm (Web & Full Stack:) Tj ET
-BT /F1 8.5 Tf 0.250 0.280 0.330 rg 1 0 0 1 163.0 562.5 Tm (React.js, Node.js, Express.js, HTML5, CSS3, Tailwind CSS, Bootstrap, RESTful APIs) Tj ET
-BT /F2 8.8 Tf 0.100 0.120 0.200 rg 1 0 0 1 48.0 549.0 Tm (Mobile Engineering:) Tj ET
-BT /F1 8.5 Tf 0.250 0.280 0.330 rg 1 0 0 1 163.0 549.0 Tm (Android Studio, Kotlin, XML Layouts, Material Design UI, Android Activity Lifecycle) Tj ET
-BT /F2 8.8 Tf 0.100 0.120 0.200 rg 1 0 0 1 48.0 535.5 Tm (Databases:) Tj ET
-BT /F1 8.5 Tf 0.250 0.280 0.330 rg 1 0 0 1 163.0 535.5 Tm (MongoDB, MySQL, Relational Database Modeling, Query Optimization) Tj ET
-BT /F2 8.8 Tf 0.100 0.120 0.200 rg 1 0 0 1 48.0 522.0 Tm (Tools & Environment:) Tj ET
-BT /F1 8.5 Tf 0.250 0.280 0.330 rg 1 0 0 1 163.0 522.0 Tm (Git, GitHub, VS Code, Postman, npm, Vite, Agile & Scrum Teamwork) Tj ET
-BT /F2 10.5 Tf 0.100 0.150 0.300 rg 1 0 0 1 48.0 500.5 Tm (FEATURED PROJECTS & TEST SUITES) Tj ET
-0.850 0.870 0.920 RG 0.8 w 48.0 496.5 m 547.0 496.5 l S
-0.180 0.450 0.750 rg 48.0 496.3 40.0 1.4 re f
-BT /F2 9.5 Tf 0.080 0.100 0.180 rg 1 0 0 1 48.0 483.5 Tm (Singlish -> Sinhala QA Test Automation Suite) Tj ET
-BT /F1 8.2 Tf 0.180 0.450 0.720 rg 1 0 0 1 450.0 483.5 Tm ([QA Automation]) Tj ET
-BT /F1 8.2 Tf 0.450 0.480 0.550 rg 1 0 0 1 48.0 472.0 Tm (Tech Stack: Playwright, JavaScript) Tj ET
-BT /F1 8.3 Tf 0.220 0.250 0.300 rg 1 0 0 1 58.0 461.5 Tm (- Designed and implemented full end-to-end automated testing suite for real-time transliteration engine.) Tj ET
-BT /F1 8.3 Tf 0.220 0.250 0.300 rg 1 0 0 1 58.0 451.0 Tm (- Covered positive, negative, and edge-case linguistic combinations with automated test validation matrices.) Tj ET
-BT /F2 9.5 Tf 0.080 0.100 0.180 rg 1 0 0 1 48.0 436.5 Tm (MindWell - Health & Wellness Mobile App) Tj ET
-BT /F1 8.2 Tf 0.180 0.450 0.720 rg 1 0 0 1 450.0 436.5 Tm ([Android Mobile]) Tj ET
-BT /F1 8.2 Tf 0.450 0.480 0.550 rg 1 0 0 1 48.0 425.0 Tm (Tech Stack: Kotlin, Android Studio, Material UI) Tj ET
-BT /F1 8.3 Tf 0.220 0.250 0.300 rg 1 0 0 1 58.0 414.5 Tm (- Engineered native Android wellness app for daily mood tracking, hydration goals, and routine building.) Tj ET
-BT /F1 8.3 Tf 0.220 0.250 0.300 rg 1 0 0 1 58.0 404.0 Tm (- Implemented clean architectural separation and local data persistence with responsive Material Design.) Tj ET
-BT /F2 9.5 Tf 0.080 0.100 0.180 rg 1 0 0 1 48.0 389.5 Tm (InShotLK - Camera Equipment Store) Tj ET
-BT /F1 8.2 Tf 0.180 0.450 0.720 rg 1 0 0 1 450.0 389.5 Tm ([Android E-Commerce]) Tj ET
-BT /F1 8.2 Tf 0.450 0.480 0.550 rg 1 0 0 1 48.0 378.0 Tm (Tech Stack: Kotlin, Android Studio, UI/UX) Tj ET
-BT /F1 8.3 Tf 0.220 0.250 0.300 rg 1 0 0 1 58.0 367.5 Tm (- Developed mobile e-commerce platform allowing users to rent and purchase cinematography equipment.) Tj ET
-BT /F2 9.5 Tf 0.080 0.100 0.180 rg 1 0 0 1 48.0 353.0 Tm (MERN Stack University Platform) Tj ET
-BT /F1 8.2 Tf 0.180 0.450 0.720 rg 1 0 0 1 450.0 353.0 Tm ([Full-Stack Web]) Tj ET
-BT /F1 8.2 Tf 0.450 0.480 0.550 rg 1 0 0 1 48.0 341.5 Tm (Tech Stack: MongoDB, Express.js, React.js, Node.js) Tj ET
-BT /F1 8.3 Tf 0.220 0.250 0.300 rg 1 0 0 1 58.0 331.0 Tm (- Collaborative full-stack team project implementing complete client-server CRUD architecture and REST APIs.) Tj ET
+0.180 0.450 0.750 rg 46.0 804.0 503.0 4.0 re f
+BT /F2 23 Tf 0.060 0.090 0.180 rg 1 0 0 1 46.0 784.0 Tm (SADARU WIJETHUNGA) Tj ET
+BT /F2 11.5 Tf 0.180 0.450 0.750 rg 1 0 0 1 46.0 764.0 Tm (QA Engineer & Full-Stack Developer) Tj ET
+BT /F1 10.5 Tf 0.350 0.400 0.480 rg 1 0 0 1 261.0 764.0 Tm (|   SLIIT IT Undergraduate) Tj ET
+BT /F1 9.2 Tf 0.220 0.260 0.340 rg 1 0 0 1 46.0 747.0 Tm (Email: saviwijethunga2002@gmail.com      |      Location: Colombo, Sri Lanka) Tj ET
+BT /F1 9.2 Tf 0.220 0.260 0.340 rg 1 0 0 1 46.0 733.0 Tm (GitHub: github.com/sadaruX3      |      LinkedIn: linkedin.com/in/sadaru-wijethunga-bb510b440) Tj ET
+0.820 0.850 0.900 RG 1.0 w 46.0 719.0 m 549.0 719.0 l S
+BT /F2 11 Tf 0.080 0.120 0.240 rg 1 0 0 1 46.0 701.0 Tm (PROFESSIONAL PROFILE) Tj ET
+0.860 0.880 0.920 RG 0.8 w 46.0 697.0 m 549.0 697.0 l S
+0.180 0.450 0.750 rg 46.0 696.8 44.0 1.6 re f
+BT /F1 9.6 Tf 0.200 0.240 0.300 rg 1 0 0 1 46.0 683.0 Tm (Detail-oriented Information Technology undergraduate at SLIIT specializing in Software Quality Assurance) Tj ET
+BT /F1 9.6 Tf 0.200 0.240 0.300 rg 1 0 0 1 46.0 669.0 Tm (\(Playwright test automation\) and full-stack software development. Passionate about building test-driven) Tj ET
+BT /F1 9.6 Tf 0.200 0.240 0.300 rg 1 0 0 1 46.0 655.0 Tm (web systems and native Android applications with clean architecture, high reliability, and exceptional user experience.) Tj ET
+BT /F2 11 Tf 0.080 0.120 0.240 rg 1 0 0 1 46.0 631.0 Tm (EDUCATION & ACADEMICS) Tj ET
+0.860 0.880 0.920 RG 0.8 w 46.0 627.0 m 549.0 627.0 l S
+0.180 0.450 0.750 rg 46.0 626.8 44.0 1.6 re f
+BT /F2 10.5 Tf 0.060 0.090 0.180 rg 1 0 0 1 46.0 613.0 Tm (BSc \(Hons\) in Information Technology) Tj ET
+BT /F1 9.2 Tf 0.420 0.460 0.540 rg 1 0 0 1 455.0 613.0 Tm (2022 - Present) Tj ET
+BT /F2 9.6 Tf 0.820 0.420 0.120 rg 1 0 0 1 46.0 599.0 Tm (Sri Lanka Institute of Information Technology \(SLIIT\)) Tj ET
+BT /F1 9.0 Tf 0.260 0.300 0.360 rg 1 0 0 1 46.0 585.0 Tm (Key Modules: Software Quality Assurance, Data Structures & Algorithms, Mobile Application Engineering,) Tj ET
+BT /F1 9.0 Tf 0.260 0.300 0.360 rg 1 0 0 1 46.0 572.0 Tm (Object-Oriented Programming \(Java\), Database Management Systems, Agile Software Methodologies.) Tj ET
+BT /F2 11 Tf 0.080 0.120 0.240 rg 1 0 0 1 46.0 560.0 Tm (TECHNICAL EXPERTISE) Tj ET
+0.860 0.880 0.920 RG 0.8 w 46.0 556.0 m 549.0 556.0 l S
+0.180 0.450 0.750 rg 46.0 555.8 44.0 1.6 re f
+BT /F2 9.4 Tf 0.080 0.120 0.220 rg 1 0 0 1 46.0 542.0 Tm (QA & Testing:) Tj ET
+BT /F1 9.1 Tf 0.240 0.280 0.350 rg 1 0 0 1 166.0 542.0 Tm (Playwright Automation, Postman API Testing, Test Case Matrices, Bug Reporting, Regression Testing) Tj ET
+BT /F2 9.4 Tf 0.080 0.120 0.220 rg 1 0 0 1 46.0 527.0 Tm (Languages:) Tj ET
+BT /F1 9.1 Tf 0.240 0.280 0.350 rg 1 0 0 1 166.0 527.0 Tm (JavaScript \(ES6+\), Kotlin, Java, Python, PHP, SQL) Tj ET
+BT /F2 9.4 Tf 0.080 0.120 0.220 rg 1 0 0 1 46.0 512.0 Tm (Web & Full Stack:) Tj ET
+BT /F1 9.1 Tf 0.240 0.280 0.350 rg 1 0 0 1 166.0 512.0 Tm (React.js, Node.js, Express.js, HTML5, CSS3, Tailwind CSS, Bootstrap, RESTful APIs) Tj ET
+BT /F2 9.4 Tf 0.080 0.120 0.220 rg 1 0 0 1 46.0 497.0 Tm (Mobile Engineering:) Tj ET
+BT /F1 9.1 Tf 0.240 0.280 0.350 rg 1 0 0 1 166.0 497.0 Tm (Android Studio, Kotlin, XML Layouts, Material Design UI, Android Activity Lifecycle) Tj ET
+BT /F2 9.4 Tf 0.080 0.120 0.220 rg 1 0 0 1 46.0 482.0 Tm (Databases:) Tj ET
+BT /F1 9.1 Tf 0.240 0.280 0.350 rg 1 0 0 1 166.0 482.0 Tm (MongoDB, MySQL, Relational Database Modeling, Query Optimization) Tj ET
+BT /F2 9.4 Tf 0.080 0.120 0.220 rg 1 0 0 1 46.0 467.0 Tm (Tools & Environment:) Tj ET
+BT /F1 9.1 Tf 0.240 0.280 0.350 rg 1 0 0 1 166.0 467.0 Tm (Git, GitHub, VS Code, Postman, npm, Vite, Agile & Scrum Teamwork) Tj ET
+BT /F2 11 Tf 0.080 0.120 0.240 rg 1 0 0 1 46.0 445.0 Tm (FEATURED PROJECTS & TEST SUITES) Tj ET
+0.860 0.880 0.920 RG 0.8 w 46.0 441.0 m 549.0 441.0 l S
+0.180 0.450 0.750 rg 46.0 440.8 44.0 1.6 re f
+BT /F2 9.8 Tf 0.060 0.090 0.180 rg 1 0 0 1 46.0 427.0 Tm (Singlish -> Sinhala QA Test Automation Suite) Tj ET
+BT /F2 8.6 Tf 0.180 0.450 0.750 rg 1 0 0 1 442.0 427.0 Tm ([QA Automation]) Tj ET
+BT /F1 8.8 Tf 0.420 0.450 0.520 rg 1 0 0 1 46.0 414.5 Tm (Tech Stack: Playwright, JavaScript, Test Runner) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 403.0 Tm (- Designed and implemented full end-to-end automated testing suite for real-time linguistic transliteration.) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 391.5 Tm (- Covered positive, negative, and edge-case linguistic combinations with automated test validation matrices.) Tj ET
+BT /F2 9.8 Tf 0.060 0.090 0.180 rg 1 0 0 1 46.0 375.0 Tm (MindWell - Health & Wellness Mobile App) Tj ET
+BT /F2 8.6 Tf 0.180 0.450 0.750 rg 1 0 0 1 442.0 375.0 Tm ([Android Mobile]) Tj ET
+BT /F1 8.8 Tf 0.420 0.450 0.520 rg 1 0 0 1 46.0 362.5 Tm (Tech Stack: Kotlin, Android Studio, Material UI, Local Storage) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 351.0 Tm (- Engineered native Android wellness app for daily mood tracking, hydration goals, and routine building.) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 339.5 Tm (- Implemented clean architectural separation and local data persistence with responsive Material Design.) Tj ET
+BT /F2 9.8 Tf 0.060 0.090 0.180 rg 1 0 0 1 46.0 323.0 Tm (InShotLK - Camera Equipment Store) Tj ET
+BT /F2 8.6 Tf 0.180 0.450 0.750 rg 1 0 0 1 442.0 323.0 Tm ([Android E-Commerce]) Tj ET
+BT /F1 8.8 Tf 0.420 0.450 0.520 rg 1 0 0 1 46.0 310.5 Tm (Tech Stack: Kotlin, Android Studio, E-Commerce UI/UX) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 299.0 Tm (- Developed mobile e-commerce platform allowing users to rent and purchase cinematography equipment.) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 287.5 Tm (- Built responsive catalog browsing, item filtering, and streamlined checkout interaction flows.) Tj ET
+BT /F2 9.8 Tf 0.060 0.090 0.180 rg 1 0 0 1 46.0 271.0 Tm (MERN Stack University Platform) Tj ET
+BT /F2 8.6 Tf 0.180 0.450 0.750 rg 1 0 0 1 442.0 271.0 Tm ([Full-Stack Web]) Tj ET
+BT /F1 8.8 Tf 0.420 0.450 0.520 rg 1 0 0 1 46.0 258.5 Tm (Tech Stack: MongoDB, Express.js, React.js, Node.js) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 247.0 Tm (- Collaborative full-stack team project implementing complete client-server CRUD architecture and REST APIs.) Tj ET
+BT /F1 8.8 Tf 0.220 0.260 0.330 rg 1 0 0 1 56.0 235.5 Tm (- Architected secure routing, data schemas, and modern state management across client-server boundaries.) Tj ET
+0.880 0.900 0.940 RG 0.7 w 46.0 48.0 m 549.0 48.0 l S
+BT /F1 8.0 Tf 0.480 0.520 0.600 rg 1 0 0 1 46.0 38.0 Tm (Sadaru Wijethunga  |  Curriculum Vitae  |  SLIIT BSc \(Hons\) IT  |  github.com/sadaruX3) Tj ET
+BT /F1 8.0 Tf 0.480 0.520 0.600 rg 1 0 0 1 485.0 38.0 Tm (Page 1 of 1) Tj ET
 
 endstream
 endobj
@@ -81,10 +89,10 @@ xref
 0000000058 00000 n 
 0000000115 00000 n 
 0000000257 00000 n 
-0000006153 00000 n 
-0000006223 00000 n 
+0000007103 00000 n 
+0000007173 00000 n 
 trailer
 << /Size 7 /Root 1 0 R >>
 startxref
-6298
+7248
 %%EOF
