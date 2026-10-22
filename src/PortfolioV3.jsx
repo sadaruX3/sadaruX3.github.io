@@ -1430,14 +1430,15 @@ export default function PortfolioV3() {
               </div>
 
               <div className="flex items-center gap-2">
-                <button
-                  id="resume-print-btn"
-                  onClick={() => window.print()}
+                <a
+                  id="resume-download-btn-header"
+                  href="/Sadaru_Wijethunga_Resume.pdf"
+                  download="Sadaru_Wijethunga_Resume.pdf"
                   className="px-3.5 py-1.5 rounded-full text-[12px] font-semibold bg-white/10 hover:bg-white/20 border border-white/20 flex items-center gap-1.5 transition-all text-white"
                 >
                   <Icon name="download" size={14} />
-                  <span>Print / Save PDF</span>
-                </button>
+                  <span>Download Resume (PDF)</span>
+                </a>
                 <button
                   id="resume-close-btn"
                   onClick={() => setShowResumeModal(false)}
@@ -1552,12 +1553,15 @@ export default function PortfolioV3() {
               >
                 Close
               </button>
-              <button
-                onClick={() => window.print()}
-                className="px-5 py-2 rounded-full text-[13px] font-bold bg-gradient-to-r from-[#FF6B6B] to-[#FFA94D] text-[#0c0d19]"
+              <a
+                id="resume-download-btn-footer"
+                href="/Sadaru_Wijethunga_Resume.pdf"
+                download="Sadaru_Wijethunga_Resume.pdf"
+                className="px-6 py-2.5 rounded-full text-[13px] font-bold bg-gradient-to-r from-[#FF6B6B] to-[#FFA94D] text-[#0c0d19] flex items-center gap-2 hover:opacity-95 transition-opacity"
               >
-                Print / Save Resume
-              </button>
+                <Icon name="download" size={15} />
+                <span>Download Resume (PDF)</span>
+              </a>
             </div>
           </div>
         </div>
