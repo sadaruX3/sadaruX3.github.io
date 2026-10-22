@@ -587,18 +587,6 @@ export default function PortfolioV3() {
               <span>Resume</span>
             </button>
 
-            {/* Availability Pill */}
-            <div
-              className="hidden lg:flex items-center gap-1.5 text-[11px] font-medium px-3 py-1.5 rounded-full"
-              style={{
-                background: "rgba(34, 193, 195, 0.12)",
-                border: "1px solid rgba(34, 193, 195, 0.3)",
-                color: "#22C1C3",
-              }}
-            >
-              <span className="w-1.5 h-1.5 rounded-full bg-[#22C1C3] animate-pulse" />
-              <span>Available to Hire</span>
-            </div>
 
             {/* Mobile menu toggle */}
             <button
