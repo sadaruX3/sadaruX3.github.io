@@ -1,0 +1,6 @@
+# Allow all search engines and crawlers (Google, Bing, DuckDuckGo, etc.)
+User-agent: *
+Allow: /
+
+# Sitemap location for sadaruwijethunga.me
+Sitemap: https://sadaruwijethunga.me/sitemap.xml
