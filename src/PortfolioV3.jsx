@@ -577,16 +577,6 @@ export default function PortfolioV3() {
 
           {/* Action Buttons */}
           <div className="flex items-center gap-2">
-            {/* View Resume Button */}
-            <button
-              id="nav-resume-btn"
-              onClick={() => setShowResumeModal(true)}
-              className="hidden sm:inline-flex items-center gap-1.5 text-[12px] font-semibold px-3.5 py-1.5 rounded-full transition-all border border-white/20 hover:border-white/40 hover:bg-white/10 text-white"
-            >
-              <Icon name="file-text" size={14} />
-              <span>Resume</span>
-            </button>
-
 
             {/* Mobile menu toggle */}
             <button
