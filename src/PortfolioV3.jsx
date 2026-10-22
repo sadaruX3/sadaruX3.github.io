@@ -663,8 +663,8 @@ export default function PortfolioV3() {
               }}
               className="w-full flex items-center gap-3 py-4 mt-2 text-left font-semibold text-[#FFA94D]"
             >
-              <Icon name="file-text" size={18} />
-              <span className="text-[17px]">View Interactive Resume</span>
+              <Icon name="download" size={18} />
+              <span className="text-[17px]">CV Download</span>
             </button>
           </li>
         </ul>
@@ -772,12 +772,12 @@ export default function PortfolioV3() {
                 </button>
 
                 <button
-                  id="hero-resume-btn"
+                  id="hero-cv-btn"
                   onClick={() => setShowResumeModal(true)}
                   className="rounded-full px-6 py-3 text-[14px] font-semibold flex items-center gap-2 border border-white/20 hover:border-white/40 hover:bg-white/10 transition-colors text-white"
                 >
-                  <Icon name="file-text" size={15} />
-                  <span>View Resume</span>
+                  <Icon name="download" size={15} />
+                  <span>Download CV</span>
                 </button>
 
                 <button
@@ -1004,12 +1004,12 @@ export default function PortfolioV3() {
               {/* Action row */}
               <div className="pt-4 flex flex-wrap items-center gap-3">
                 <button
-                  id="about-open-resume-btn"
+                  id="about-open-cv-btn"
                   onClick={() => setShowResumeModal(true)}
                   className="px-5 py-2.5 rounded-full text-[13px] font-semibold bg-white/10 hover:bg-white/20 text-white border border-white/20 transition-all flex items-center gap-2"
                 >
-                  <Icon name="file-text" size={15} />
-                  <span>View Detailed Resume</span>
+                  <Icon name="download" size={15} />
+                  <span>Download CV</span>
                 </button>
                 <button
                   id="about-contact-btn"
@@ -1409,7 +1409,7 @@ export default function PortfolioV3() {
             <div className="flex items-start justify-between pb-6 border-b border-white/10">
               <div>
                 <span className="text-[11px] font-mono tracking-widest text-[#FFA94D] uppercase">
-                  Curriculum Vitae Preview
+                  Curriculum Vitae (CV)
                 </span>
                 <h3 className="disp font-extrabold text-[26px] sm:text-[30px] text-white">
                   Sadaru Wijethunga
@@ -1421,13 +1421,13 @@ export default function PortfolioV3() {
 
               <div className="flex items-center gap-2">
                 <a
-                  id="resume-download-btn-header"
-                  href="/Sadaru_Wijethunga_Resume.pdf"
-                  download="Sadaru_Wijethunga_Resume.pdf"
-                  className="px-3.5 py-1.5 rounded-full text-[12px] font-semibold bg-white/10 hover:bg-white/20 border border-white/20 flex items-center gap-1.5 transition-all text-white"
+                  id="cv-download-btn-header"
+                  href="/Sadaru_Wijethunga_CV.pdf"
+                  download="Sadaru_Wijethunga_CV.pdf"
+                  className="px-4 py-2 rounded-full text-[12px] font-semibold bg-white/10 hover:bg-white/20 border border-white/20 flex items-center gap-1.5 transition-all text-white"
                 >
                   <Icon name="download" size={14} />
-                  <span>Download Resume (PDF)</span>
+                  <span>CV Download (PDF)</span>
                 </a>
                 <button
                   id="resume-close-btn"
@@ -1544,13 +1544,13 @@ export default function PortfolioV3() {
                 Close
               </button>
               <a
-                id="resume-download-btn-footer"
-                href="/Sadaru_Wijethunga_Resume.pdf"
-                download="Sadaru_Wijethunga_Resume.pdf"
+                id="cv-download-btn-footer"
+                href="/Sadaru_Wijethunga_CV.pdf"
+                download="Sadaru_Wijethunga_CV.pdf"
                 className="px-6 py-2.5 rounded-full text-[13px] font-bold bg-gradient-to-r from-[#FF6B6B] to-[#FFA94D] text-[#0c0d19] flex items-center gap-2 hover:opacity-95 transition-opacity"
               >
                 <Icon name="download" size={15} />
-                <span>Download Resume (PDF)</span>
+                <span>CV Download (PDF)</span>
               </a>
             </div>
           </div>
